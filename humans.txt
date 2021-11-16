@@ -4,11 +4,11 @@
 
 # TEAMsssss
 
-    <name> -- <role> -- <twitter>
+    Jm Almera
 
 # THANKS
 
-    <name>
+    John Mark
 
 # TECHNOLOGY COLOPHON
 
